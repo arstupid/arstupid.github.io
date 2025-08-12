@@ -1,1 +1,1 @@
-mkdir .github/new_folder_name
+git add .github/new_folder_name
